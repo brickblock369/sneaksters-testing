@@ -11,15 +11,15 @@
         "create_a_room" : "분대 만들기",
         "join_a_room" : "분대 들어가기",
 
-        "play_online" : "온라인 비밀 작전",
+        "play_online" : "온라인으로 임무 실행",
         "play_online_desc" : "다른 사람들과 같이 임무를 실행합니다.",
-        "play_offline" : "혼자서 비밀 작전",
+        "play_offline" : "혼자서 임무 실행",
         "play_offline_desc" : "혼자서 임무를 실행합니다.",
 
         "gem_heist" : "보석 탈취",
-        "gem_heist_desc" : "다 같이 보석들을 탈취하세요 !",
+        "gem_heist_desc" : "다 같이 보석들을 탈취하세요!",
         "hide_and_seek" : "숨바꼭질",
-        "hide_and_seek_desc" : "경찰이 추격하니 도망치세요 !",
+        "hide_and_seek_desc" : "경찰이 추격하니 도망치세요!",
 
         "create_a_room_desc" : "다른 사람들이 같이 들어가기 위해 분대를 만듭니다.",
         "join_a_room_desc" : "4자 코드로 온라인 분대로 들어갑니다.",
@@ -58,7 +58,7 @@
         "sfx_vol" : "효과음 볼륨",
         "sfx_vol_description" : "게임에 재생되는 효과음 볼륨을 조정합니다.",
 
-        "customize" : "설정",
+        "customize" : "플레이어 설정",
         "my_sneak_id" : "ID",
         "playerhat" : "모자",
         "hat_select" : "모자 설정하기",
@@ -73,23 +73,23 @@
         "back_button" : "뒤로",
         "quit_button" : "종료",
 
-        "choose_job" : "역할을 선택하세요 !",
-        "computer_desc" : "공중의 눈<color=white>이 되어 문을 해킹하고 도둑들에게 신호를 보내세요 !</color>",
-        "thief_desc" : "<color=purple>도둑</color>이 되어 공중의 눈의 도움을 받아 보석을 훔치세요 !",
+        "choose_job" : "역할을 선택하세요!",
+        "computer_desc" : "공중의 눈<color=white>이 되어 문을 해킹하고 도둑들에게 신호를 보내세요!</color>",
+        "thief_desc" : "<color=purple>도둑</color>이 되어 공중의 눈의 도움을 받아 보석을 훔치세요!",
         "join_as_computer" : "공중의 눈",
         "join_as_thief" : "도둑",
-        "toggle" : "바꾸기",
+        "toggle" : "보이기/숨기기",
         "room_code" : "분대 코드",
         "players_connected" : "분대원",
         "leader" : "분대장",
         "waiting" : "기다리는 중...",
-        "ready" : "준비 완료 !",
+        "ready" : "준비 완료!",
         "no_more_space" : "더 이상 빈 공간이 없습니다.",
         "computer_job" : "공중의 눈",
         "thief_job" : "바닥의 도둑",
-        "head_out" : "출발 !",
-        "confirm_ready" : "준비 완료 !",
-        "confirm_ready_header" : "우리는 임무가 있습니다 !",
+        "head_out" : "출발!",
+        "confirm_ready" : "준비 완료!",
+        "confirm_ready_header" : "우리는 임무가 있습니다!",
         "waiting_on_host" : "분대장을 기다리는 중...",
         "choose_mission" : "임무 선택",
         "game_begins_in" : "출발하겠습니다.",
@@ -100,12 +100,12 @@
         "gemstones_collected" : "얻은\u000A\u0020\u0020\u0020\u0020\u0020\u0020보석",
 
         "captured_top" : "경찰에게",
-        "captured_bottom" : "잡혔습니다 !",
+        "captured_bottom" : "잡혔습니다!",
 
-        "busted" : "임무 실패 !",
+        "busted" : "임무 실패!",
         "busted_squad_lasted" : "{0}분 {1}초 동안 유지했습니다.",
 
-        "head_for_exit" : "출구를 통해 나가세요 !",
+        "head_for_exit" : "출구를 통해 나가세요!",
 
         "walk" : "걷기",
         "sprint" : "달리기",
@@ -133,10 +133,10 @@
         "no" : "아니요",
 
         "resume" : "계속하기",
-        "leave_mission" : "임무에서 나가기",
+        "leave_mission" : "임무 포기하기",
 
-        "player_joined" : "님이 들어오셨습니다 !",
-        "player_left" : "님이 나가셨습니다 !",
+        "player_joined" : "님이 들어오셨습니다!",
+        "player_left" : "님이 나가셨습니다!",
 
 
         "project_lead" : "프로젝트 리더",
@@ -153,6 +153,6 @@
         "polish_localization" : "폴란드어 번역",
         "french_localization" : "프랑스어 번역",
         "korean_localization" : "한국어 번역",
-        "special_thanks" : "그 외 감사하는 분들"
+        "special_thanks" : "그 외 감사드리는 분들"
     }
 }
